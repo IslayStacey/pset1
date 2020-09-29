@@ -3,12 +3,12 @@
 
 Fill in your personal information, stage the changes, and commit with a meaningful commit message.  Then push the commit to the remote repository.
 
-* Name:
+* Name: Islay Stacey
 
-* LSE ID:
+* LSE ID:202060365
 
-* LSE email address:
+* LSE email address: i.e.stacey@lse.ac.uk
 
-* Programme:
+* Programme: Media and Communications (Data & Society)
 
 * (Optional) Personal website:
